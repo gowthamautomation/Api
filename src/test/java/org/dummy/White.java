@@ -19,8 +19,8 @@ public class White extends BaseClass {
 		System.out.println(pretty);
 		
 		JsonPath path = response.jsonPath();
-		int id = path.getInt("data id");
-		System.out.println(id);
+		int i = path.getInt("data id");
+		System.out.println(i);
 	}
 
 	
