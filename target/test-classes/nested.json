@@ -1,0 +1,13 @@
+{
+"name":"Bala",
+"email":"Bala@gmail.com",
+"phoneNo":9500613453,
+"payment":true,
+"address":{
+"streetName":"sakthi Nagar",
+"district":"chennai",
+"stateName":"TN",
+"pinCode":636401
+}
+}
+
